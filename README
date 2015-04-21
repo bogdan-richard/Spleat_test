@@ -1,0 +1,11 @@
+Author: Richard Bogdan
+Time spent on: ~ 1 hrs
+
+- Simple 1-activity Android application which downloads the list of Spleat venues from API and display them in a ListView
+- No other functions
+- Only onCreate lifecycle is handled
+- Basic UI
+- No image caching
+- No error handling on network, location errors, assuming that they are ok
+- Idea: get your location, and then get the meta data list of venues, then download image
+- Code could be more elegant, safer and could have more functions, tried to keep the 1 hour time goal
